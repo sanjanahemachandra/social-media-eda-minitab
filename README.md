@@ -25,7 +25,7 @@ This project was carried out as part of 'ST1009 - Exploratory Data Analysis' dur
 ## Files in This Repository
 - `Original Dataset from Kaggle.csv` : original Kaggle dataset
 - `Dataset with analysis.mpx` : Minitab analysis output
-- `Presentation_Group20.pdf` : group presentation slides
+- `Presentation_Group20.pptx` : group presentation slides
 
 ## Team
 Group 20: Department of Statistics, Faculty of Science, University of Colombo

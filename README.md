@@ -23,7 +23,7 @@ This project was carried out as part of 'ST1009 - Exploratory Data Analysis' dur
 - A significant portion of users showed signs of addictive usage behavior impacting daily productivity
 
 ## Files in This Repository
-- `Original Dataset from Kaggle.csv` : original Kaggle dataset
+- `Original Dataset from Kaggle.mpx` : original Kaggle dataset
 - `Dataset with analysis.mpx` : Minitab analysis output
 - `Presentation_Group20.pptx` : group presentation slides
 
